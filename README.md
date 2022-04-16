@@ -15,7 +15,7 @@ de la pantalla de los dispositivos.
 :small_blue_diamond: tambien decidi realizar un popup que lanzara un mensaje cuando el usuario tratara de enviar el campo de texto vacio
 o cuando intentara ingresar mayusculas,numeros o caracteres especiales.
 
-** para decodificar el mensaje de texto propuesto por alura para este challenge es necesario decodificarlo 2 veces:
+## para decodificar el mensaje de texto propuesto por alura para este challenge es necesario decodificarlo 2 veces:
 
 1) fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober! 
 2) felicimesdadenters por enfrenterntar estenter desafio y haberlo concluidober con exito 
