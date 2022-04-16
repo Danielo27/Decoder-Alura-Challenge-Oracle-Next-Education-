@@ -19,7 +19,7 @@ o cuando intentara ingresar mayusculas,numeros o caracteres especiales.
 2) felicimesdadenters por enfrenterntar estenter desafio y haberlo concluidober con exito 
 3) Resultado -> felicidades por enfrentar este desafio y haberlo concluido con exito
 
-![](https://github.com/Danielo27/Decoder-Alura-Challenge-Oracle-Next-Education-/README.md/Test.png)
+![Pantallazo de Decoder](https://raw.githubusercontent.com/Danielo27/Decoder-Alura-Challenge-Oracle-Next-Education-/main/Test.png)
 
 los compañeros que deseen revisar el codigo o realizar bifurcaciones tengan la libertad de hacerlo, porque aunque el codigo 
 esta funcionando la idea es optimizarlo, ya que considero que me aleje del camino de la optimizacion del codigo y me centre
